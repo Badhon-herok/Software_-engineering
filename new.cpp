@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include <bits/stdc++.h>
+=======
+#include <iostream>
+>>>>>>> 3754144 (Updated sum logic in main.cpp)
 using namespace std;
 
 int main() {
@@ -8,4 +12,8 @@ int main() {
     }
     cout << "The sum of numbers from 1 to 500 with a difference of 3 is: " << sum << endl;
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 3754144 (Updated sum logic in main.cpp)
